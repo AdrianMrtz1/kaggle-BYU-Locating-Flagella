@@ -1,6 +1,7 @@
 # Deep Learning Final Project: Locating Bacterial Flagellar Motors in 3D Tomograms
 
 **Adrian Martinez**
+Dataset: https://www.kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025
 
 ## Introduction - What is the Problem and Why Does it Matter?
 
