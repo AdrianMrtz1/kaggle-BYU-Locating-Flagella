@@ -63,7 +63,9 @@ More complex architectures (3D U-Net, transformers) were explored but were too r
 
 ### Training Performance
 
-Key observations (see Figure 1 in Appendix):
+![IMAGEBYU](https://github.com/user-attachments/assets/69e74b86-104e-4bf7-a816-9c7a0fbc5317)
+
+Key observations (see Figure 1):
 
 - Loss Convergence: Training loss dropped rapidly, while validation loss showed volatility between epochs 8–12, reflecting generalization challenges.
 - Detection Accuracy: Training accuracy steadily improved; validation accuracy peaked around epochs 8–9 and 13–14 at ~78%.
