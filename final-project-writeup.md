@@ -98,7 +98,9 @@ This approach proved computationally efficient while still achieving reliable mo
 
 The training process revealed several interesting patterns about the model's learning dynamics and the inherent challenges of the flagellar motor detection task. Figure 1 shows the progression of key metrics over 15 epochs of training.
 
-![Training Metrics](training_metrics.png)
+![BYU results](https://github.com/user-attachments/assets/6ea41468-5492-495b-8358-fcd400ce50ef)
+
+
 *Figure 1: Evolution of Loss, Detection Accuracy, and Coordinate Error during training*
 
 The training metrics reveal several key insights:
